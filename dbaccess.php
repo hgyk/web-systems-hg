@@ -40,7 +40,7 @@ function escape1($str)
 <meta charset="utf-8">
 <title>test page for database access</title>
 </head>
-<body >
+<body> 
 Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
