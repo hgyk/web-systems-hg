@@ -45,15 +45,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-<<<<<<< HEAD
-<<<<<<< HEAD
-Add comment by Mamoru Ito Add comment by Mamoru at 2. hagiwara
-=======
 Add comment by Mamoru Ito Add comment by Mamoru at 2 Add comment by Mamoru at 3.
->>>>>>> 8ca61596200ecf83b4f1dd9310b96209e39d5c79
-=======
-Add comment by Mamoru Ito Add comment by Mamoru at 2 Add comment by Mamoru at 3.
->>>>>>> 8ca61596200ecf83b4f1dd9310b96209e39d5c79
 </body>
 </html>
 
